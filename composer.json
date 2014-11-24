@@ -1,0 +1,23 @@
+{
+  "name": "rbnvrw/pico-markdown-forms",
+  "type": "library",
+  "description": "Plugin for Pico CMS for Markdown Forms",
+  "keywords": ["picocms", "markdown", "form"],
+  "homepage": "http://rubenverweij.nl/",
+  "license": "MIT",
+  "authors": [
+      {
+          "name": "Ruben Verweij",
+          "email": "development@rubenverweij.nl"
+      }
+  ],
+  "repositories": [
+    {
+	    "type": "vcs",
+	    "url": "https://github.com/rbnvrw/markdown-forms"
+    }
+  ],
+  "require": {
+    "rbnvrw/markdown-forms": "dev-master"
+  }
+}
